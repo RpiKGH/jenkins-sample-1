@@ -3,7 +3,7 @@
     <groupId>fr.apollo.samples</groupId>
     <artifactId>SampleProject</artifactId>
     <packaging>jar</packaging>
-    <version>1.15.H-SNAPSHOT</version>
+    <version>1.15.H</version>
     <name>SampleProject</name>
     <url>http://maven.apache.org</url>
     <build>
@@ -57,5 +57,6 @@
         <connection>scm:git:https://github.com/RpiKGH/jenkins-sample-1.git</connection>
         <url>https://github.com/RpiKGH/jenkins-sample-1</url>
         <developerConnection>scm:git:https://github.com/RpiKGH/jenkins-sample-1.git</developerConnection>
-    </scm>
+      <tag>v1.15.H</tag>
+  </scm>
 </project>
